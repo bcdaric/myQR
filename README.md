@@ -1,4 +1,5 @@
 # myQR
+Java app that generates a QR Barcode either via command line or Swing UI.
 
 ## Prerequisites
 
